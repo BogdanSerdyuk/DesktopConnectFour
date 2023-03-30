@@ -1,0 +1,69 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+gradle/
+gradlew
+*.bat
+build
+
+
+# idea confid
+.idea
+
+# old stages
+/Desktop Connect Four/*
+!/Desktop Connect Four/task/
+/Desktop Connect Four/task/*
+!/Desktop Connect Four/task/src
+
+# Project exclude paths
+/Topics/Anonymous classes/Capture variables/out/
+/Topics/Anonymous classes/Capture variables/out/production/classes/
+/Topics/ArrayList/Find the nearest number/out/
+/Topics/ArrayList/Find the nearest number/out/production/classes/
+/Topics/ArrayList/Output the list's elements/out/
+/Topics/ArrayList/Output the list's elements/out/production/classes/
+/Topics/Constructor/Book/out/
+/Topics/Constructor/Book/out/production/classes/
+/Topics/Debugging techniques/Find the error/out/
+/Topics/Debugging techniques/Find the error/out/production/classes/
+/Topics/Functional decomposition/A quadratic equation/out/
+/Topics/Functional decomposition/A quadratic equation/out/production/classes/
+/Topics/Functional interfaces/A lambda expression with seven arguments/out/
+/Topics/Functional interfaces/A lambda expression with seven arguments/out/production/classes/
+/Topics/Generics and Object/Boxes are not just objects/out/
+/Topics/Generics and Object/Boxes are not just objects/out/production/classes/
+/Topics/Integer types and operations/First digit/out/
+/Topics/Integer types and operations/First digit/out/production/classes/
+/Topics/Iterating over arrays/Check if an array is sorted ascending/out/
+/Topics/Iterating over arrays/Check if an array is sorted ascending/out/production/classes/
+/Topics/Lambda expressions/Expression closure/out/
+/Topics/Lambda expressions/Expression closure/out/production/classes/
+/Topics/Lambda expressions/Max of two integers/out/
+/Topics/Lambda expressions/Max of two integers/out/production/classes/
+/Topics/Lambda expressions/Next even number/out/
+/Topics/Lambda expressions/Next even number/out/production/classes/
+/Topics/Polymorphism/Runtime polymorphic behavior/out/
+/Topics/Polymorphism/Runtime polymorphic behavior/out/production/classes/
+/Topics/Polymorphism/The time of overloading/out/
+/Topics/Polymorphism/The time of overloading/out/production/classes/
+/Topics/Static members/Detail manufacturing/out/
+/Topics/Static members/Detail manufacturing/out/production/classes/
+/Topics/Static members/Project constants and methods/out/
+/Topics/Static members/Project constants and methods/out/production/classes/
+/Topics/Static members/Time constants/out/
+/Topics/Static members/Time constants/out/production/classes/
+/Topics/Template method/Build a house/out/
+/Topics/Template method/Build a house/out/production/classes/
+/Topics/The for-loop/The sum of integers from a to b/out/
+/Topics/The for-loop/The sum of integers from a to b/out/production/classes/
+/Topics/The List interface/Equal lists/out/
+/Topics/The List interface/Equal lists/out/production/classes/
+/Topics/The Map interface/Modifying a map/out/
+/Topics/The Map interface/Modifying a map/out/production/classes/
+/Topics/The Map interface/Sherlock Holmes and the mystery of anagrams/out/
+/Topics/The Map interface/Sherlock Holmes and the mystery of anagrams/out/production/classes/
+/Topics/The Map interface/Theory/out/
+/Topics/The Map interface/Theory/out/production/classes/
